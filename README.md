@@ -19,3 +19,7 @@ https://www.iban.com/exchange-rates-api
 3. get name and link for each item.
 4. handle any errors 0 errors
 5. use of AJAX.
+
+
+### before final 2 step away from the client need:
+<img src='the_before_final.JPG'>
