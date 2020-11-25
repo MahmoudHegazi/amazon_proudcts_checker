@@ -11,8 +11,8 @@ https://www.iban.com/exchange-rates-api
 
 ### features
 
-1- escap sponsored items (no one can do it better than that).
-2- scrape amazon in professional way.
-3- get name and link for each item.
-4- handle any errors 0 errors
-5- use of AJAX.
+1. escap sponsored items (no one can do it better than that).
+2. scrape amazon in professional way.
+3. get name and link for each item.
+4. handle any errors 0 errors
+5. use of AJAX.
