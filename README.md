@@ -4,6 +4,9 @@ this app check if product exist or not one amazon, next step to click on add car
 <img src='result_found.JPG'>
 
 
+## important note:
+Maybe you can use tools or advanced technique readed from book, or from course, But I did that from scratch that's mean you I can make a book and you can only copy 
+
 ### IBAN API 
 
 https://www.iban.com/exchange-rates-api
