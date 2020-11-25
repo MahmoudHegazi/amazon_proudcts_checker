@@ -5,7 +5,7 @@ this app check if product exist or not one amazon, next step to click on add car
 
 
 ## important note:
-Maybe you can use tools or advanced technique readed from book, or from course, But I did that from scratch that's mean you I can make a book and you can only copy 
+Maybe you can use tools or advanced technique read from book or from course better than that 100 times, But I did that from scratch that's mean I can make a book and you can only copy 
 
 ### IBAN API 
 
